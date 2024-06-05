@@ -30,7 +30,7 @@ export default function ThemeBtn() {
     );
 }
 
-/ import React, { useState } from 'react';
+// import React, { useState } from 'react';
 // import useTheme from '../contexts/theme';
 
 // export default function ThemeBtn() {
